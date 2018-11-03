@@ -1,0 +1,14 @@
+body {
+  background: #000000;
+}
+
+.chart-container {
+  position: relative;
+  text-align: center;
+  margin: auto;
+  height: 70vh;
+  width: 80vw;
+}
+img {
+  height: 20%;
+}
